@@ -1,5 +1,5 @@
 # Global Variables
 homePage = "https://www.hudl.com/home"
-valid_username = "joshmatisi@gmail.com"
-valid_password = "j^dzCP4ZlvkMM^#T"
+valid_username = "validuser"
+valid_password = "validpass"
 invalid_cred = "garbage"
